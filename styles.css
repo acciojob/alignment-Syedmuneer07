@@ -1,5 +1,5 @@
 /*  your css code here. If applicable */
-table{
+table {
 	border: 1px solid black;
 	word-spacing: 1px;
 	padding: 1px;
@@ -8,5 +8,8 @@ table{
 	
 }
 td{
-	padding:1PX;
+	border: 1px solid rgb(0, 0, 0);
+	border-collapse: collapse;
+	
 }
+
