@@ -1,1 +1,12 @@
 /*  your css code here. If applicable */
+table{
+	border: 1px solid black;
+	word-spacing: 1px;
+	padding: 1px;
+	width:100%;
+	  margin: 20px auto;
+	
+}
+td{
+	padding:10PX;
+}
